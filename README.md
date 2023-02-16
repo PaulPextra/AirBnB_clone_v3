@@ -154,7 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Paul Okoli - [Github](https://github.com/PaulPextra) / [Twitter](https://twitter.com/PaulPextra)  
+Paul Okoli - [Github](https://github.com/PaulPextra) / [Twitter](https://twitter.com/PaulPextra)
+Oluwaseyi Idowu - [Github](https://github.com/idowuseyi) / [Twitter](https://twitter.com/idowuseyi22)
 
 Second part of Airbnb: Joann Vuong
 ## License
